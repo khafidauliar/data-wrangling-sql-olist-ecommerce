@@ -1,2 +1,4 @@
-# data-wrangling-sql-olist-ecommerce
-Project data wrangling dan SQL menggunakan database Olist E-Commerce
+# Project Python Sistem Kasir Self Service
+## A. Latar Belakang
+## B. Objektif
+## C. Analisis
