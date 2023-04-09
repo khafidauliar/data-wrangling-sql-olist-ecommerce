@@ -3,7 +3,7 @@
 Proyek data wrangling dan SQL ini dilakukan untuk mengolah data yang sebelumnya data mentah (_raw data_) menjadi data yang baik untuk dianalisa dan divisualisasikan. Data yang digunakan untuk proyek ini merupakan data sebuah ecommerce di Brazil bernama Olist.
 ## B. Objektif
 Objektif pada proyek ini antara lain:
-1.  Total pendapatan penjualan berdasarkan bulan
+1.  Total pendapatan penjualan berdasarkan bulan dan tahun
 2.  Analisis penjualan menurut negara bagian
 3.  Identifikasi 10 produk terlaris berdasarkan jumlah order di Sao Paulo
 4.  Identifikasi 10 produk berdasarkan jumlah total pendapatan di Sao Paulo
