@@ -9,6 +9,7 @@ Objektif pada proyek ini antara lain:
 4.  Identifikasi 10 produk berdasarkan jumlah total pendapatan di Sao Paulo
 5.  Identifikasi 10 produk dengan rata-rata rating tertinggi di Sao Paulo
 ## C. Analisis
-[Medium](https://medium.com/@khafidauliar/data-wrangling-dan-sql-pada-data-olist-ecommerce-d8ce35d811d6)
+- [Medium](https://medium.com/@khafidauliar/data-wrangling-dan-sql-pada-data-olist-ecommerce-d8ce35d811d6)
+- [Presentasi Project](https://youtu.be/OsKg2cZOy-o)
 
 **Author** Copyright (c) 2023 Khafid Aulia Rahman
